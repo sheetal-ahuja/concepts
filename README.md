@@ -1,7 +1,7 @@
-a# **Algorithmic Patterns**
+# **Algorithmic Patterns**
 
 ## **1. Two Pointers**
-- Technique to solve problems by having two pointers starting at different positions and moving towards a condition.
+- A technique to solve problems is having two pointers starting at different positions and moving towards a condition.
 - Useful for problems like finding a pair in a sorted array, or reversing a string in place.
 
 ## **2. Island**
@@ -29,11 +29,11 @@ a# **Algorithmic Patterns**
 
 ## **7. In-place Reversal of a Linked List**
 - Reversing a linked list using constant space.
-- Commonly asked in interview questions involving linked lists.
+- Interview questions involving linked lists are commonly asked.
 
 ## **8. Tree Breadth-First Search**
 - Traversing a tree level by level.
-- Useful for problems involving shortest path in an unweighted graph.
+- Useful for problems involving the shortest path in an unweighted graph.
 
 ## **9. Tree Depth First Search**
 - Traversing a tree by going deep along one branch before moving to another.
@@ -41,7 +41,7 @@ a# **Algorithmic Patterns**
 
 ## **10. Two Heaps**
 - Technique for efficiently keeping track of the median of a stream of numbers.
-- Uses a max heap and a min heap.
+- Uses a max heap and a min-heap.
 
 ## **11. Subsets**
 - Finding all possible subsets of a given set.
@@ -60,7 +60,7 @@ a# **Algorithmic Patterns**
 - Useful for problems like finding missing numbers in an array.
 
 ## **15. Backtracking**
-- Trying all possible solutions and backtracking once an invalid solution is reached.
+- Try all possible solutions and backtrack once an invalid solution is reached.
 - Commonly used in solving problems like Sudoku, N-Queens, etc.
 
 ## **16. 0/1 Knapsack**
